@@ -1,4 +1,3 @@
-# dataScienceInternAssign_Zeotap
 # EDA, Lookalike, and Clustering Project
 
 ## Project Overview:
